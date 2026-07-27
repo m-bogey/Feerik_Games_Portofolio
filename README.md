@@ -152,7 +152,9 @@ Assets/
 A gameplay video demonstrating the project and its gameplay systems is available below.
 
 🎥 **Gameplay Video:**
-[Watch the gameplay on YouTube]()
+[Watch the gameplay on YouTube](https://youtu.be/AtPpXiKlEHg)
+
+[Check out an overview of my various Unity projects on YouTube](https://youtu.be/0-zqwXSqqHU)
 
 ---
 
