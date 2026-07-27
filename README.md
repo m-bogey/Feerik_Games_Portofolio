@@ -110,10 +110,9 @@ The `SceneChangeTrigger` system provides a reusable way to trigger scene transit
 ```text
 Assets/
 |- Scripts/
-|   |- Combat/
+|   |- Fight/
 |   |   |- IDamageable.cs
 |   |   |- PlayerAttack.cs
-|   |   |- README.md
 |   |
 |   |- Boss/
 |   |   |- BossBrain.cs
@@ -123,19 +122,20 @@ Assets/
 |   |   |   |-BossEvent.cs
 |   |   |   |-BossIntro.cs
 |   |   |   |-ArenaController.cs
-|   |   |- README.md
 |   |
 |   |- Player/
-|   |   |- PlayerSetup.cs
-|   |   |- README.md
+|   |   |- PlayerIndexAssigner.cs
+|   |   |- PlayerMove.cs
+|   |- Vehicule/
+|   |   |- VehiculeControler.cs
+|   |   |- VehiculeRespawn.cs
 |   |
 |   |- Camera/
 |   |   |- CinemachineManualInput.cs
-|   |   |- README.md
+|   |   |- PlayerSetup.cs
 |   |
 |   |- Gameplay/
 |       |- SceneChangeTrigger.cs
-|       |- README.md
 |
 |- Scenes/
 |- Prefabs/
